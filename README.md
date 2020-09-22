@@ -3,6 +3,7 @@ This code has been written for teaching purposes to students, which covered the 
 
 The following contents were covered in this code:
 1. Sharpening
+
 2.Thresholding, Binarization & Adaptive Thresholding
 3. Dilation, Erosion, Opening and Closing
 4. Edge Detection & Image Gradients
